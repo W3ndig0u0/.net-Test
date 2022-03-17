@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jingxiang.xu\\.nuget\\packages\\": {}
+    "/Users/Administrator/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jingxiang.xu\\Documents\\GitHub\\.net-Website-Template\\myWebApp\\myWebApp.csproj",
+      "projectUniqueName": "/Users/Administrator/Documents/GitHub/.net-Website-Template/myWebApp/myWebApp.csproj",
       "projectName": "myWebApp",
-      "projectPath": "C:\\Users\\jingxiang.xu\\Documents\\GitHub\\.net-Website-Template\\myWebApp\\myWebApp.csproj",
-      "packagesPath": "C:\\Users\\jingxiang.xu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jingxiang.xu\\Documents\\GitHub\\.net-Website-Template\\myWebApp\\obj\\",
+      "projectPath": "/Users/Administrator/Documents/GitHub/.net-Website-Template/myWebApp/myWebApp.csproj",
+      "packagesPath": "/Users/Administrator/.nuget/packages/",
+      "outputPath": "/Users/Administrator/Documents/GitHub/.net-Website-Template/myWebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jingxiang.xu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/Administrator/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
